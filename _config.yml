@@ -8,7 +8,7 @@ paginate: 5
 plugins: [jekyll-paginate]
 port: 3000
 safe: true
-
+comments: true
 
 # edit here to achieve your personal greatness
 url: https://ashishkafle.com.np/
