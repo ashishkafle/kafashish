@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Onboarding is different from the orientation
 tags:
 - Onboarding
