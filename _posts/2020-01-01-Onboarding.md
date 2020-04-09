@@ -4,7 +4,6 @@ comments: true
 title: Onboarding is different from the orientation
 tags:
 - Onboarding
-- Humanresource
 - Peoplemanagement
 ---
 
